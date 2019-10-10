@@ -69,7 +69,7 @@ object Sketch : PApplet(){
                 particles.removeAt(i)
             }
         }
-        sketchProducer.drawDool()
+        sketchProducer.drawDoodool()
     }
 }
 
